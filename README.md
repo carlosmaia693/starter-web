@@ -19,6 +19,8 @@ Tnis is a simple web project, deployment can be an any web server or even local 
 
 ##How To Contribute
 
+Por favor, bifurque este repositório e, em seguida, emita Solicitações de Pull para revisão.
+
 ###
 
 2023 Git.Training.
