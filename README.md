@@ -24,4 +24,4 @@ Por favor, bifurque este repositório e, em seguida, emita Solicitações de Pul
 
 ###
 
-2023 Git.Training.
+2023 Git.Training. Todos os direitos reservados.
