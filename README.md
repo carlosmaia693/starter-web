@@ -2,7 +2,7 @@
 
 This is a simple website project for 
 showing how to use Git and Github together.
-Adicionando mais uma linha, mais alterações do ramo meurecurso.
+Atualização de emergência.
 
 ##Introduction
 
